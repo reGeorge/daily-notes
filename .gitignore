@@ -1,0 +1,20 @@
+# Obsidian 特定文件
+.obsidian/
+.trash/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*~
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 备份文件
+*.bak
+*.backup
