@@ -753,17 +753,6 @@
 - query: 八点起床
 - answer: 
 - raw_answer: 
-## 2026-04-05 08:41:29
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: bac6a5876c1c058905afe27ab13557a2
-- in_conversation: false
-- answer_source: record-only
-- query: 我是小满是小爱
-- answer: 真是个好听的名字，你可以去小爱个人信息页设置声纹和昵称，下次小爱就能认出你啦
-- raw_answer: 真是个好听的名字，你可以去小爱个人信息页设置声纹和昵称，下次小爱就能认出你啦
 ## 2026-04-05 09:35:33
 - source: xiaogpt-local
 - mode: record-only
@@ -786,3 +775,17 @@
 - query: 关闭关闭
 - answer: 
 - raw_answer:
+
+### 2026-04-06.md
+
+## 2026-04-06 08:31:59
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 6b393026308683a0b6fb4cc91bf9cda8
+- in_conversation: false
+- answer_source: record-only
+- query: 几点啦
+- answer: 现在是早上8点31分
+- raw_answer: 现在是早上8点31分
