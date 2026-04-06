@@ -1,5 +1,16 @@
 [
   {
+    "id": "ai-1775349689000-5",
+    "type": "magnet-moment",
+    "amount": 1,
+    "description": "磁贴时刻: 我是小满是小爱",
+    "timestamp": 1775349689000,
+    "source": "xiaogpt-local",
+    "rawQuery": "我是小满是小爱",
+    "matchedKeyword": "小满",
+    "alignedTaskTitle": null
+  },
+  {
     "id": "ai-1775309157000-4",
     "type": "magnet-moment",
     "amount": 1,

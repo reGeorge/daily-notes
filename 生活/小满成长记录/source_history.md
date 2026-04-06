@@ -739,3 +739,50 @@
 - query: 你是个笨蛋
 - answer: 你说你刚说的话我要当真吗？当真了伤心，那还是不当真吧
 - raw_answer: 你说你刚说的话我要当真吗？当真了伤心，那还是不当真吧
+
+### 2026-04-05.md
+
+## 2026-04-05 00:04:13
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 0536cda88d9b881d40260913e5165995
+- in_conversation: false
+- answer_source: record-only
+- query: 八点起床
+- answer: 
+- raw_answer: 
+## 2026-04-05 08:41:29
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: bac6a5876c1c058905afe27ab13557a2
+- in_conversation: false
+- answer_source: record-only
+- query: 我是小满是小爱
+- answer: 真是个好听的名字，你可以去小爱个人信息页设置声纹和昵称，下次小爱就能认出你啦
+- raw_answer: 真是个好听的名字，你可以去小爱个人信息页设置声纹和昵称，下次小爱就能认出你啦
+## 2026-04-05 09:35:33
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: cc26c40796fc087338f7ca66229b4640
+- in_conversation: false
+- answer_source: record-only
+- query: 我们今天要带小马去动物园玩
+- answer: 被你问住了，看来要更努力学习了
+- raw_answer: 被你问住了，看来要更努力学习了
+## 2026-04-05 21:57:14
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: bd52995184746444d2ebd9388b987256
+- in_conversation: false
+- answer_source: record-only
+- query: 关闭关闭
+- answer: 
+- raw_answer:
