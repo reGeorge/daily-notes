@@ -279,3 +279,50 @@
 - query: 把灯光调到最暗
 - answer: 最暗啦。
 - raw_answer: 最暗啦。
+
+### 2026-04-08.md
+
+## 2026-04-08 07:26:31
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 3dc31e65dceaab12e9e3c931865c316c
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀
+- answer: 没什么，就是看到你很开心。
+- raw_answer: 没什么，就是看到你很开心。
+## 2026-04-08 07:28:09
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 4b0788d80031e6b43d2e32bc6ee7e85b
+- in_conversation: false
+- answer_source: record-only
+- query: 播放加油鸭
+- answer: 好的，请欣赏加油鸭 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
+- raw_answer: 好的，请欣赏加油鸭 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
+## 2026-04-08 07:29:16
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 987d0c469bb190646905722924b31689
+- in_conversation: false
+- answer_source: record-only
+- query: 停止播放
+- answer: 
+- raw_answer: 
+## 2026-04-08 21:28:47
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 2bfb4a78fdf7e10401ac6fa4685c709f
+- in_conversation: false
+- answer_source: record-only
+- query: 想把自己刷牙了
+- answer: 这个我暂时还回答不上诶，我要再学习学习
+- raw_answer: 这个我暂时还回答不上诶，我要再学习学习
