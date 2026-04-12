@@ -996,3 +996,105 @@
 - query: 开灯
 - answer: 好啊。
 - raw_answer: 好啊。
+## 2026-04-09 23:18:55
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: be00e26ba041c116792c53e4477e200f
+- in_conversation: false
+- answer_source: record-only
+- query: 关灯
+- answer: 搞定。
+- raw_answer: 搞定。
+
+### 2026-04-10.md
+
+## 2026-04-10 06:59:54
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 29c4d964ef770ba1ee5216cf99f94ce0
+- in_conversation: false
+- answer_source: record-only
+- query: 几点了
+- answer: 现在是早上6点59分
+- raw_answer: 现在是早上6点59分
+## 2026-04-10 20:31:21
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: fedfefd859ac7fabd0c2875f0384a0dc
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀
+- answer: 可能不小心发出了点声音，就当是我做梦了吧~
+- raw_answer: 可能不小心发出了点声音，就当是我做梦了吧~
+## 2026-04-10 21:48:37
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 56b2f8060f4db15de98b1a2bd17347f8
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-10 21:56:28
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 94793c435d5654ecf84e95524adfb87e
+- in_conversation: false
+- answer_source: record-only
+- query: 还剩几分钟
+- answer: 对不起， 我还在学习中!
+- raw_answer: 对不起， 我还在学习中!
+## 2026-04-10 21:56:40
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 4db87689a998e5d87450f0e83086ebb2
+- in_conversation: false
+- answer_source: record-only
+- query: 刚刚定的闹钟多久
+- answer: 对不起， 我还在学习中!
+- raw_answer: 对不起， 我还在学习中!
+## 2026-04-10 21:57:00
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 6d2c798c8897a8ca8cd4eeeb8712a536
+- in_conversation: false
+- answer_source: record-only
+- query: 明天天气
+- answer: 上海普陀明天小雨，记得带伞，13度到20度，东风1级转东风2级，空气良好。
+- raw_answer: 上海普陀明天小雨，记得带伞，13度到20度，东风1级转东风2级，空气良好。
+## 2026-04-10 21:59:06
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 16465dad0fcd29130e67a222a27915d3
+- in_conversation: false
+- answer_source: record-only
+- query: 关闭
+- answer: 
+- raw_answer: 
+## 2026-04-10 22:15:57
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 88c361843c1fee69faf95a62119b63c2
+- in_conversation: false
+- answer_source: record-only
+- query: 开灯
+- answer: 小事儿。
+- raw_answer: 小事儿。
