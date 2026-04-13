@@ -48,653 +48,8 @@
 
 ## XiaoAi Raw Captures
 
-### 2026-03-26.md
-
-## 2026-03-26 23:24:55
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: c4aff287b122a41bce462b42d7142047
-- in_conversation: false
-- answer_source: xiaoai
-- query: 现在几点啦
-- answer: 现在是晚上11点24分
-- raw_answer: 现在是晚上11点24分
-## 2026-03-26 23:25:06
-- source: xiaogpt-local
-- mode: control
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: ed74c8f758a91b223f993bb65473cb8b
-- in_conversation: true
-- answer_source: control
-- query: 开始持续对话
-- answer: 开始持续对话
-- raw_answer: 抱歉，目前暂不支持该功能
-## 2026-03-26 23:25:07
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 50a5d2c02a6fe26d71988926f01610c0
-- in_conversation: true
-- answer_source: xiaoai
-- query: 小爱同学
-- answer: 在呢
-- raw_answer: 在呢
-## 2026-03-26 23:25:13
-- source: xiaogpt-local
-- mode: llm
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 336f5a30a74f564863dccf5e1ef20064
-- in_conversation: true
-- answer_source: glm
-- query: 你好呀小爱同学
-- answer: 
-- raw_answer: 嗨，我是你的智能助手，可以让我播音乐、控制小米家电，随时发任务给我啊。
-## 2026-03-26 23:25:23
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 1ea4d7958320adfe5588935420f1b58d
-- in_conversation: true
-- answer_source: xiaoai
-- query: 小爱同学
-- answer: 我在
-- raw_answer: 我在
-## 2026-03-26 23:25:34
-- source: xiaogpt-local
-- mode: llm
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: ae9b284558c543a53d065358af29c968
-- in_conversation: true
-- answer_source: glm
-- query: 你会哪些事情
-- answer: 
-- raw_answer: 好啊，马上为你播放
-## 2026-03-26 23:25:41
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 0ab929a4fb32ac299733b082cda7ad19
-- in_conversation: true
-- answer_source: xiaoai
-- query: 小爱同学
-- answer: 我在
-- raw_answer: 我在
-## 2026-03-26 23:25:55
-- source: xiaogpt-local
-- mode: llm
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 8e13d2826e3871865167a6008e42c4f4
-- in_conversation: true
-- answer_source: glm
-- query: 测试记录小满今天赚了两个磁贴
-- answer: 
-- raw_answer: 被你问住了，看来要更努力学习了
-## 2026-03-26 23:26:02
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: a634264cd46db144066e5ef5c4eb383d
-- in_conversation: true
-- answer_source: xiaoai
-- query: 小爱同学
-- answer: 我在
-- raw_answer: 我在
-## 2026-03-26 23:26:06
-- source: xiaogpt-local
-- mode: llm
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: c270209aa5ce07ecd600179ee01342fe
-- in_conversation: true
-- answer_source: glm
-- query: 暂停所有的
-- answer: 
-- raw_answer: 本设备暂不支持该功能哦
-## 2026-03-26 23:26:13
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: a41639d542036c7c601fbbb4496875af
-- in_conversation: true
-- answer_source: xiaoai
-- query: 小爱同学
-- answer: 来了
-- raw_answer: 来了
-## 2026-03-26 23:26:18
-- source: xiaogpt-local
-- mode: llm
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 9fd73ed98d3855cd85b2ded1f8d60142
-- in_conversation: true
-- answer_source: glm
-- query: 换
-- answer: 
-- raw_answer: 
-## 2026-03-26 23:26:25
-- source: xiaogpt-local
-- mode: native
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 97e6d88e63d785f25ed85a37ac2f11c8
-- in_conversation: true
-- answer_source: xiaoai
-- query: 小爱同学
-- answer: 来了
-- raw_answer: 来了
-
-### 2026-03-28.md
-
-## 2026-03-28 21:59:29
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 76dd696ee7689696b231c69cddffd83f
-- in_conversation: false
-- answer_source: record-only
-- query: 爸爸在吗
-- answer: 你可以告诉我关于爸爸的信息吗
-- raw_answer: 你可以告诉我关于爸爸的信息吗
-## 2026-03-28 22:01:02
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 8d8d0f40f6535dc08ae45de936126699
-- in_conversation: false
-- answer_source: record-only
-- query: 小满晚上帮妈妈打扫卫生了给他一个磁贴
-- answer: 这个问题我还在学习中， 先聊点别的吧
-- raw_answer: 这个问题我还在学习中， 先聊点别的吧
-## 2026-03-28 22:39:37
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 5075fc515eac55758e1e065f8096444c
-- in_conversation: false
-- answer_source: record-only
-- query: 播放鲁冰花
-- answer: 好，请听鲁冰花 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 好，请听鲁冰花 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-03-28 22:41:14
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: ed38f4937019c7c07d5ff9582497413e
-- in_conversation: false
-- answer_source: record-only
-- query: 停止播放
-- answer: 
-- raw_answer:
-
-### 2026-03-29.md
-
-## 2026-03-29 16:45:24
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: d95f1710dceb8e099c56727d9efd1925
-- in_conversation: false
-- answer_source: record-only
-- query: 不要老是打开台灯把台灯关掉
-- answer: 小事儿。
-- raw_answer: 小事儿。
-## 2026-03-29 22:11:11
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 8851cdec30028271ef056365d7229ef1
-- in_conversation: false
-- answer_source: record-only
-- query: 小满今天挑战冷水岛成功奖励了五个十天
-- answer: 这个我暂时还回答不上诶，我要再学习学习
-- raw_answer: 这个我暂时还回答不上诶，我要再学习学习
-## 2026-03-29 22:34:12
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 3db9a74ce033238a5105901a653efe7e
-- in_conversation: false
-- answer_source: record-only
-- query: 十五分钟后叫我声音大一点
-- answer: 
-- raw_answer: 
-## 2026-03-29 22:34:27
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 521c9f8e5775af35828900edd373817d
-- in_conversation: false
-- answer_source: record-only
-- query: 定时十五分钟
-- answer: 
-- raw_answer: 
-## 2026-03-29 22:54:27
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: f47ef10d8342647b59db30de32dcdd65
-- in_conversation: false
-- answer_source: record-only
-- query: 关闭闹钟
-- answer: 好的
-- raw_answer: 好的
-
-### 2026-03-30.md
-
-## 2026-03-30 17:00:11
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: ac03b60b2265ea9eafce0894f6f74a81
-- in_conversation: false
-- answer_source: record-only
-- query: 把灯关掉
-- answer: 好的，关咯。
-- raw_answer: 好的，关咯。
-## 2026-03-30 21:19:35
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 9851083abe61148cab989de5176a67eb
-- in_conversation: false
-- answer_source: record-only
-- query: 来啦
-- answer: 高兴！
-- raw_answer: 高兴！
-## 2026-03-30 21:19:47
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: ead6778b7f9f1bd36eab6afbf58cd9b7
-- in_conversation: false
-- answer_source: record-only
-- query: I LOVE
-- answer: 好呀，请欣赏Nxde 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 好呀，请欣赏Nxde 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-03-30 21:28:15
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: f2dbe1af9d0cd28b50360c573b758ccb
-- in_conversation: false
-- answer_source: record-only
-- query: 播放奇迹再现
-- answer: 好的，请听奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 好的，请听奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-03-30 21:35:05
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: b8c0a59643db81392043201aad1b1c06
-- in_conversation: false
-- answer_source: record-only
-- query: 停止播放
-- answer: 
-- raw_answer:
-
-### 2026-04-02.md
-
-## 2026-04-02 07:49:42
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 6bd423152fd52da328c45fbf9560f684
-- in_conversation: false
-- answer_source: record-only
-- query: 干嘛呀
-- answer: 没什么，就是看到你很开心。
-- raw_answer: 没什么，就是看到你很开心。
-## 2026-04-02 20:39:00
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: d33704f97df530a9402aa43f2e496544
-- in_conversation: false
-- answer_source: record-only
-- query: 定时十分钟
-- answer: 
-- raw_answer: 
-## 2026-04-02 20:49:27
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 5d63eca017f1eea2fd15491b6ecb551d
-- in_conversation: false
-- answer_source: record-only
-- query: 再定时一分钟
-- answer: 
-- raw_answer: 
-## 2026-04-02 20:50:40
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: edb554b0ba463aca9abda6aee97a9c48
-- in_conversation: false
-- answer_source: record-only
-- query: 关闭闹钟
-- answer: 好的
-- raw_answer: 好的
-## 2026-04-02 20:56:18
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 6511f278e8769d46016f3deb61fe0598
-- in_conversation: false
-- answer_source: record-only
-- query: 播放外婆桥
-- answer: 没问题，请欣赏外婆桥 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 没问题，请欣赏外婆桥 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-04-02 20:56:56
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 839d13df6175cc5d7e7d010d25a46612
-- in_conversation: false
-- answer_source: record-only
-- query: 闭嘴
-- answer: 
-- raw_answer: 
-## 2026-04-02 20:57:23
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: fe2f0b45075e70e3ba6d87c85b958989
-- in_conversation: false
-- answer_source: record-only
-- query: 播放奇迹再现
-- answer: 好的，请欣赏奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 好的，请欣赏奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-04-02 20:59:30
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 7ea046178c3726b79ef28b804c3b52a8
-- in_conversation: false
-- answer_source: record-only
-- query: 播放奇迹再现
-- answer: 好呀，请听奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 好呀，请听奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-04-02 21:01:50
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 51415b8dc88f3b1b9deeb0dd4a57f38a
-- in_conversation: false
-- answer_source: record-only
-- query: 闭嘴
-- answer: 
-- raw_answer:
-
-### 2026-04-03.md
-
-## 2026-04-03 21:19:14
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: a0c2d910f00d0576c1aa9c8a6281cebf
-- in_conversation: false
-- answer_source: record-only
-- query: 干嘛呀
-- answer: 可能不小心发出了点声音，就当是我做梦了吧~
-- raw_answer: 可能不小心发出了点声音，就当是我做梦了吧~
-## 2026-04-03 21:19:34
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: ffaae5905443d3472b61fcb45e67cf9f
-- in_conversation: false
-- answer_source: record-only
-- query: 他问你在说啥你告诉他你在说啥
-- answer: 对不起， 我还在学习中!
-- raw_answer: 对不起， 我还在学习中!
-## 2026-04-03 21:20:18
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 12e66348075847f59d3a31e618cd6336
-- in_conversation: false
-- answer_source: record-only
-- query: 来啦
-- answer: 么么哒！
-- raw_answer: 么么哒！
-## 2026-04-03 21:20:23
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: df161d5e8dc883aa4ca807f5e83f4b63
-- in_conversation: false
-- answer_source: record-only
-- query: 干嘛呀啥呀
-- answer: 这个我暂时还回答不上诶，我要再学习学习
-- raw_answer: 这个我暂时还回答不上诶，我要再学习学习
-## 2026-04-03 21:44:31
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 44195eb710ad6d40135d0e38ff65ea82
-- in_conversation: false
-- answer_source: record-only
-- query: 来啦
-- answer: 棒棒的！
-- raw_answer: 棒棒的！
-## 2026-04-03 21:44:41
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 96362d09cb04ee0aceffe5021bf7d662
-- in_conversation: false
-- answer_source: record-only
-- query: 你棒棒你叫他闭嘴他说你棒棒的
-- answer: 哎呀，不如换个方式再说一下啦！
-- raw_answer: 哎呀，不如换个方式再说一下啦！
-## 2026-04-03 21:44:55
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: d722a12cf177142d6d8ea82c17b62552
-- in_conversation: false
-- answer_source: record-only
-- query: 明天下午去电影院
-- answer: 这个我暂时还回答不上诶，我要再学习学习
-- raw_answer: 这个我暂时还回答不上诶，我要再学习学习
-## 2026-04-03 22:15:15
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 6b0ead36d3ea4a845a381ca9b7c21650
-- in_conversation: false
-- answer_source: record-only
-- query: 整点都不要再报时了你发现啥呀
-- answer: 好的
-- raw_answer: 好的
-## 2026-04-03 22:15:40
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 3afbc67654029aa36ec0c217d2f9d3ae
-- in_conversation: false
-- answer_source: record-only
-- query: 小马哥说他是星之卡比他不怕冷水怎么挑战
-- answer: 这个我暂时还回答不上诶，我要再学习学习
-- raw_answer: 这个我暂时还回答不上诶，我要再学习学习
-## 2026-04-03 22:21:21
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: f0e0101758d28c66be29b4042ab34ff4
-- in_conversation: false
-- answer_source: record-only
-- query: 几点啦
-- answer: 现在是晚上10点21分
-- raw_answer: 现在是晚上10点21分
-## 2026-04-03 22:34:21
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: d35ccdbfe0b572f8c63b1facf5462299
-- in_conversation: false
-- answer_source: record-only
-- query: 明天天气
-- answer: 上海普陀明天阴转多云，11度到22度，西北风2级转西风2级，空气非常好。
-- raw_answer: 上海普陀明天阴转多云，11度到22度，西北风2级转西风2级，空气非常好。
-
 ### 2026-04-04.md
 
-## 2026-04-04 00:08:38
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: cc78a40cd55f7586be1f7a322bc4f06c
-- in_conversation: false
-- answer_source: record-only
-- query: 明天早上八点半叫我起床
-- answer: 
-- raw_answer: 
-## 2026-04-04 08:37:14
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 6e69732138055b9ec96a3b6febe18dc0
-- in_conversation: false
-- answer_source: record-only
-- query: 别放了
-- answer: 
-- raw_answer: 
-## 2026-04-04 13:42:06
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 15bf3a3216fbf32228ffa469b2d4f936
-- in_conversation: false
-- answer_source: record-only
-- query: 定时十五分钟
-- answer: 
-- raw_answer: 
-## 2026-04-04 13:57:30
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 288c7eae494afc4dbfe79a311d6a91e0
-- in_conversation: false
-- answer_source: record-only
-- query: 可以了
-- answer: 抱歉，目前暂不支持该功能
-- raw_answer: 抱歉，目前暂不支持该功能
-## 2026-04-04 17:42:12
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 68b83da1c926a838f977191edbc2cc4c
-- in_conversation: false
-- answer_source: record-only
-- query: 明天天气
-- answer: 上海普陀明天阴，13度到25度，南风1级转南风2级，空气质量良。
-- raw_answer: 上海普陀明天阴，13度到25度，南风1级转南风2级，空气质量良。
-## 2026-04-04 18:34:35
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 86cebffae59b9ac85f8730d5e8cbf182
-- in_conversation: false
-- answer_source: record-only
-- query: 小朋友哭了怎么办
-- answer: 1.第一步首先要做的就是淡定，一定要冷静，不要自己孩子在闹的时候，自己也跟着闹起来脾气性格，这样是万万使不得，首先第一步，控制好自己的脾气性格。一定要沉着冷静，沉着冷静。,2.在保持冷静的情况下，下面就是应该认真分析，当然这个分析可能是没有声色，但是自己一定要好好分析，分析一下孩子为什么会哭闹，为什么会突然产生了这种情绪。,3.经过仔细分析，如果是自己分析的由于外部环境造成的，看看自己能否改变，比如天气很热，噪声很大，能改变就尽可能改变，如果不能改变，我们最好改变自己，带着孩子离开这个孩子不喜欢或者不适应孩子的外部环境。
-- raw_answer: 1.第一步首先要做的就是淡定，一定要冷静，不要自己孩子在闹的时候，自己也跟着闹起来脾气性格，这样是万万使不得，首先第一步，控制好自己的脾气性格。一定要沉着冷静，沉着冷静。,2.在保持冷静的情况下，下面就是应该认真分析，当然这个分析可能是没有声色，但是自己一定要好好分析，分析一下孩子为什么会哭闹，为什么会突然产生了这种情绪。,3.经过仔细分析，如果是自己分析的由于外部环境造成的，看看自己能否改变，比如天气很热，噪声很大，能改变就尽可能改变，如果不能改变，我们最好改变自己，带着孩子离开这个孩子不喜欢或者不适应孩子的外部环境。
-## 2026-04-04 18:45:31
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 1bf020b54dc268f79e1c05185393dedf
-- in_conversation: false
-- answer_source: record-only
-- query: 播放奇迹再现
-- answer: 好呢，请听奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-- raw_answer: 好呢，请听奇迹再现 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
-## 2026-04-04 18:53:52
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: b5da9f5c64bcac322efbd890c71695c7
-- in_conversation: false
-- answer_source: record-only
-- query: 关闭
-- answer: 
-- raw_answer: 
-## 2026-04-04 20:04:36
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: 3a7a3945dd4cc1252e7bd3e948c864e8
-- in_conversation: false
-- answer_source: record-only
-- query: 定时十分钟
-- answer: 
-- raw_answer: 
-## 2026-04-04 20:14:52
-- source: xiaogpt-local
-- mode: record-only
-- hardware: L05B
-- mi_did: 2116704058
-- request_id: abb6fee7c93dafdd5d00cdd2a9746ba0
-- in_conversation: false
-- answer_source: record-only
-- query: 停
-- answer: 
-- raw_answer: 
 ## 2026-04-04 21:25:36
 - source: xiaogpt-local
 - mode: record-only
@@ -742,6 +97,17 @@
 
 ### 2026-04-05.md
 
+## 2026-04-05 00:04:04
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: ceaa3b6ebc7b061d5e61d8924ee695b2
+- in_conversation: false
+- answer_source: record-only
+- query: 我在
+- answer: 没听清呢，换个方式再说一遍吧
+- raw_answer: 没听清呢，换个方式再说一遍吧
 ## 2026-04-05 00:04:13
 - source: xiaogpt-local
 - mode: record-only
@@ -753,6 +119,17 @@
 - query: 八点起床
 - answer: 
 - raw_answer: 
+## 2026-04-05 08:41:29
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: bac6a5876c1c058905afe27ab13557a2
+- in_conversation: false
+- answer_source: record-only
+- query: 我是小满是小爱
+- answer: 真是个好听的名字，你可以去小爱个人信息页设置声纹和昵称，下次小爱就能认出你啦
+- raw_answer: 真是个好听的名字，你可以去小爱个人信息页设置声纹和昵称，下次小爱就能认出你啦
 ## 2026-04-05 09:35:33
 - source: xiaogpt-local
 - mode: record-only
@@ -764,6 +141,17 @@
 - query: 我们今天要带小马去动物园玩
 - answer: 被你问住了，看来要更努力学习了
 - raw_answer: 被你问住了，看来要更努力学习了
+## 2026-04-05 21:46:04
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: abb0a1bae0f173ce24cd62eab56bea8d
+- in_conversation: false
+- answer_source: record-only
+- query: 计时十分钟
+- answer: 
+- raw_answer: 
 ## 2026-04-05 21:57:14
 - source: xiaogpt-local
 - mode: record-only
@@ -894,6 +282,28 @@
 
 ### 2026-04-08.md
 
+## 2026-04-08 07:26:31
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 3dc31e65dceaab12e9e3c931865c316c
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀
+- answer: 没什么，就是看到你很开心。
+- raw_answer: 没什么，就是看到你很开心。
+## 2026-04-08 07:28:09
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 4b0788d80031e6b43d2e32bc6ee7e85b
+- in_conversation: false
+- answer_source: record-only
+- query: 播放加油鸭
+- answer: 好的，请欣赏加油鸭 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
+- raw_answer: 好的，请欣赏加油鸭 试听版，手机打开小米音箱APP，开通音乐会员听全曲。
 ## 2026-04-08 07:29:16
 - source: xiaogpt-local
 - mode: record-only
@@ -1098,3 +508,416 @@
 - query: 开灯
 - answer: 小事儿。
 - raw_answer: 小事儿。
+## 2026-04-10 23:54:04
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: c2fcffbdd771f440fad1b50927f79c46
+- in_conversation: false
+- answer_source: record-only
+- query: 嗯怎么
+- answer: 哎呀竟然没听清楚，我不开心了！
+- raw_answer: 哎呀竟然没听清楚，我不开心了！
+## 2026-04-10 23:54:13
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 64e3c86fc8b3820477bdf69f4560899f
+- in_conversation: false
+- answer_source: record-only
+- query: 七点五十叫我起床
+- answer: 
+- raw_answer: 
+## 2026-04-10 23:54:29
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 536c51edfb21a48d14200347b20feb9b
+- in_conversation: false
+- answer_source: record-only
+- query: 关灯
+- answer: 好的，关咯。
+- raw_answer: 好的，关咯。
+
+### 2026-04-11.md
+
+## 2026-04-11 07:59:16
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 5be29c2acfe9ba9011b521013782d43a
+- in_conversation: false
+- answer_source: record-only
+- query: 今天天气
+- answer: 上海普陀今天雾转小雨，现在雾，下午2点有小雨，记得带伞，13度到19度，比昨天低6度，空气质量指数71，空气还可以
+- raw_answer: 上海普陀今天雾转小雨，现在雾，下午2点有小雨，记得带伞，13度到19度，比昨天低6度，空气质量指数71，空气还可以
+## 2026-04-11 09:12:31
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: ad84d3c927c8eac3341295396cb44298
+- in_conversation: false
+- answer_source: record-only
+- query: 下午几点下雨
+- answer: 上海普陀下午2点到傍晚5点有雨，记得带伞。
+- raw_answer: 上海普陀下午2点到傍晚5点有雨，记得带伞。
+## 2026-04-11 09:50:59
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: b8cbb9d0d41f0fa001cd6ae725c64680
+- in_conversation: false
+- answer_source: record-only
+- query: 他喊你呢
+- answer: 这个问题我暂时还回答不上，需要再学习一下
+- raw_answer: 这个问题我暂时还回答不上，需要再学习一下
+## 2026-04-11 10:29:27
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: bb726249eff28217d5ae313014fc91ee
+- in_conversation: false
+- answer_source: record-only
+- query: 现在几点
+- answer: 现在是上午10点29分
+- raw_answer: 现在是上午10点29分
+## 2026-04-11 10:30:30
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: a402cef7d0083145cb8e9a9d17c3f188
+- in_conversation: false
+- answer_source: record-only
+- query: 十一点半叫我
+- answer: 
+- raw_answer: 
+## 2026-04-11 10:37:32
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 1936fa318ad2fc25c1b140b468b33c1f
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-11 10:47:45
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 37b4a7a66e1bc6f73e3b34ccaa358d60
+- in_conversation: false
+- answer_source: record-only
+- query: 关闭
+- answer: 
+- raw_answer: 
+## 2026-04-11 11:30:20
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e9e18829ad81feeeef08ef2bd73e0de8
+- in_conversation: false
+- answer_source: record-only
+- query: 关闭
+- answer: 
+- raw_answer: 
+## 2026-04-11 16:20:44
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: dcbe2067ea8bf4ca1c558f679fcbedf3
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-11 16:20:59
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: b93b300496815828f01aed23e2690eee
+- in_conversation: false
+- answer_source: record-only
+- query: 今天小满自己收拾了玩具转了几天
+- answer: 对不起， 我还在学习中!
+- raw_answer: 对不起， 我还在学习中!
+## 2026-04-11 16:31:05
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 8b282bf27582aa690cf58a698eb68ad6
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-11 16:41:27
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 12f90c75d599a37c3747780c862f47dd
+- in_conversation: false
+- answer_source: record-only
+- query: 定时五分钟
+- answer: 
+- raw_answer: 
+## 2026-04-11 16:47:36
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 38119012189b017464dd72971883f7b6
+- in_conversation: false
+- answer_source: record-only
+- query: 关闭
+- answer: 
+- raw_answer: 
+## 2026-04-11 19:04:28
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: a8c4727fe515b01ede55b8a7e7ad93ef
+- in_conversation: false
+- answer_source: record-only
+- query: 明天温度
+- answer: 上海普陀明天13度到17度，有些冷。
+- raw_answer: 上海普陀明天13度到17度，有些冷。
+
+### 2026-04-12.md
+
+## 2026-04-12 08:05:09
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: a3e9ed355acb2d1f34ecd862929c5348
+- in_conversation: false
+- answer_source: record-only
+- query: 几点啦
+- answer: 现在是早上8点05分
+- raw_answer: 现在是早上8点05分
+## 2026-04-12 10:20:49
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: bd0a4062109d19b5f38c568e82d205f4
+- in_conversation: false
+- answer_source: record-only
+- query: 十分钟后闹铃
+- answer: 
+- raw_answer: 
+## 2026-04-12 10:31:45
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: d7981f84329952d9470b83859400dccf
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-12 13:23:42
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 9f978f3aaaa59a320cbbfeb5ea576e48
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-12 13:34:04
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 1301192cd427f36b67c8ed8220e83bf8
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-12 16:35:42
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 2c921a85f014b8a2cc50dd5b693702c7
+- in_conversation: false
+- answer_source: record-only
+- query: 小满今天问我爸爸什么时候可以请假带我出去玩啊其实今天是周日放假因为要出去
+- answer: 小满今天不是今天。
+- raw_answer: 小满今天不是今天。
+## 2026-04-12 20:38:41
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 410209b4d274add946af9e93224903b0
+- in_conversation: false
+- answer_source: record-only
+- query: 明天天气
+- answer: 上海普陀明天阴转小雨，要带伞哦，15度到19度，西北风1级转西北风2级，空气质量优。
+- raw_answer: 上海普陀明天阴转小雨，要带伞哦，15度到19度，西北风1级转西北风2级，空气质量优。
+## 2026-04-12 21:18:56
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 5d57fa20140530db7aa675393a160818
+- in_conversation: false
+- answer_source: record-only
+- query: 计时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-12 22:24:26
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e13d9fa8b5ca7eb78dc0dae33b45eaf4
+- in_conversation: false
+- answer_source: record-only
+- query: 开灯
+- answer: 没问题，开啦。
+- raw_answer: 没问题，开啦。
+## 2026-04-12 22:24:35
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: b7dfa7095bb8a4de39d550d52fe46a99
+- in_conversation: false
+- answer_source: record-only
+- query: 开灯
+- answer: 设备已经开啦
+- raw_answer: 设备已经开啦
+## 2026-04-12 22:34:17
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 6e3962827fddca7f7d68003d7e8719d0
+- in_conversation: false
+- answer_source: record-only
+- query: 灯开亮一点
+- answer: 好啊。
+- raw_answer: 好啊。
+## 2026-04-12 22:34:27
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: b1885c3b6d052a85382528eabd52f368
+- in_conversation: false
+- answer_source: record-only
+- query: 灯开到最亮
+- answer: 最亮啦。
+- raw_answer: 最亮啦。
+## 2026-04-12 22:34:44
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 94c0ad1ce297f9e510921612a659f1fe
+- in_conversation: false
+- answer_source: record-only
+- query: 我以后能不能叫你小爱
+- answer: 被你问住了，看来要更努力学习了
+- raw_answer: 被你问住了，看来要更努力学习了
+## 2026-04-12 22:35:05
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 93da86b6bcbd5d7dec33f122c412dde0
+- in_conversation: false
+- answer_source: record-only
+- query: 小爱
+- answer: 我在听呢，你说
+- raw_answer: 我在听呢，你说
+## 2026-04-12 22:35:10
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 324b095cbf5fe3715a9243e4414e2577
+- in_conversation: false
+- answer_source: record-only
+- query: 小爱
+- answer: 我在听呢，你说
+- raw_answer: 我在听呢，你说
+## 2026-04-12 22:35:17
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 5c3f4c04658421f74d0972b9b1ed34c2
+- in_conversation: false
+- answer_source: record-only
+- query: 鼻涕
+- answer: 是不是环境太吵了？听不清呀！也许换个安静地方我就听清楚啦
+- raw_answer: 是不是环境太吵了？听不清呀！也许换个安静地方我就听清楚啦
+## 2026-04-12 22:35:29
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: dc965c1be035c467e221a81cdc6f9800
+- in_conversation: false
+- answer_source: record-only
+- query: 鼻涕
+- answer: 这个问题我暂时还回答不上，需要再学习一下
+- raw_answer: 这个问题我暂时还回答不上，需要再学习一下
+## 2026-04-12 22:36:27
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 4205c30fd73c9b32bcf0451d570369b8
+- in_conversation: false
+- answer_source: record-only
+- query: 把台灯调亮一点
+- answer: 当前已经是最高了，不能再调啦。
+- raw_answer: 当前已经是最高了，不能再调啦。
+## 2026-04-12 22:36:39
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 2ed841457086a180d360aa5c9c1de3d5
+- in_conversation: false
+- answer_source: record-only
+- query: 把台灯调到最亮
+- answer: 当前已经是最高了，不能再调啦。
+- raw_answer: 当前已经是最高了，不能再调啦。
+## 2026-04-12 22:36:51
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 469d72fab3250456c92c8d729357ae03
+- in_conversation: false
+- answer_source: record-only
+- query: 灯光切换到冷光模式
+- answer: 到顶咯。
+- raw_answer: 到顶咯。

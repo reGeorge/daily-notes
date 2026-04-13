@@ -1,6 +1,28 @@
 [
   {
-    "id": "ai-1775455720000-5",
+    "id": "ai-1775982942000-5",
+    "type": "magnet-moment",
+    "amount": 1,
+    "description": "磁贴时刻: 小满今天问我爸爸什么时候可以请假带我出去玩啊其实今天是周日放假因为要出去",
+    "timestamp": 1775982942000,
+    "source": "xiaogpt-local",
+    "rawQuery": "小满今天问我爸爸什么时候可以请假带我出去玩啊其实今天是周日放假因为要出去",
+    "matchedKeyword": "小满",
+    "alignedTaskTitle": null
+  },
+  {
+    "id": "ai-1775895659000-4",
+    "type": "magnet-moment",
+    "amount": 1,
+    "description": "磁贴时刻: 今天小满自己收拾了玩具转了几天",
+    "timestamp": 1775895659000,
+    "source": "xiaogpt-local",
+    "rawQuery": "今天小满自己收拾了玩具转了几天",
+    "matchedKeyword": "小满",
+    "alignedTaskTitle": null
+  },
+  {
+    "id": "ai-1775455720000-3",
     "type": "magnet-moment",
     "amount": 1,
     "description": "磁贴时刻: 小满今天自己收拾的玩具",
@@ -11,46 +33,24 @@
     "alignedTaskTitle": null
   },
   {
-    "id": "ai-1775309157000-4",
+    "id": "ai-1775349689000-2",
+    "type": "magnet-moment",
+    "amount": 1,
+    "description": "磁贴时刻: 我是小满是小爱",
+    "timestamp": 1775349689000,
+    "source": "xiaogpt-local",
+    "rawQuery": "我是小满是小爱",
+    "matchedKeyword": "小满",
+    "alignedTaskTitle": null
+  },
+  {
+    "id": "ai-1775309157000-1",
     "type": "magnet-moment",
     "amount": 1,
     "description": "磁贴时刻: 小满今天去医院非常勇敢",
     "timestamp": 1775309157000,
     "source": "xiaogpt-local",
     "rawQuery": "小满今天去医院非常勇敢",
-    "matchedKeyword": "小满",
-    "alignedTaskTitle": null
-  },
-  {
-    "id": "ai-1774793471000-3",
-    "type": "magnet-moment",
-    "amount": 1,
-    "description": "磁贴时刻: 小满今天挑战冷水岛成功奖励了五个十天",
-    "timestamp": 1774793471000,
-    "source": "xiaogpt-local",
-    "rawQuery": "小满今天挑战冷水岛成功奖励了五个十天",
-    "matchedKeyword": "小满",
-    "alignedTaskTitle": null
-  },
-  {
-    "id": "ai-1774706462000-2",
-    "type": "magnet-moment",
-    "amount": 1,
-    "description": "磁贴时刻: 小满晚上帮妈妈打扫卫生了给他一个磁贴",
-    "timestamp": 1774706462000,
-    "source": "xiaogpt-local",
-    "rawQuery": "小满晚上帮妈妈打扫卫生了给他一个磁贴",
-    "matchedKeyword": "小满",
-    "alignedTaskTitle": null
-  },
-  {
-    "id": "ai-1774538755000-1",
-    "type": "magnet-moment",
-    "amount": 2,
-    "description": "磁贴时刻: 小满今天赚了两个磁贴",
-    "timestamp": 1774538755000,
-    "source": "xiaogpt-local",
-    "rawQuery": "测试记录小满今天赚了两个磁贴",
     "matchedKeyword": "小满",
     "alignedTaskTitle": null
   },
