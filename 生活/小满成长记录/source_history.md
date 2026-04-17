@@ -1045,3 +1045,199 @@
 - query: 开灯
 - answer: 开啦。
 - raw_answer: 开啦。
+
+### 2026-04-14.md
+
+## 2026-04-14 07:30:24
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 0e2955b144490f4ea4b958759f377fd7
+- in_conversation: false
+- answer_source: record-only
+- query: 今天天气
+- answer: 上海普陀今天小雨，记得带伞，13度到19度，空气质量指数27，空气挺好的
+- raw_answer: 上海普陀今天小雨，记得带伞，13度到19度，空气质量指数27，空气挺好的
+## 2026-04-14 18:09:08
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 60b9211b366a1004131619b18f04737a
+- in_conversation: false
+- answer_source: record-only
+- query: 五分钟后闹铃
+- answer: 
+- raw_answer: 
+## 2026-04-14 18:19:34
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 9b5331a242a5230aa921138be8297254
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-14 18:19:41
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 0898edab153e16d0c670a100d4ad55dc
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-14 19:00:55
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 5d016476f749232970e3f5a5c58620cd
+- in_conversation: false
+- answer_source: record-only
+- query: 五分钟后闹铃
+- answer: 
+- raw_answer: 
+## 2026-04-14 19:06:50
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: ac17911573d62d1c6ca50fdde4d2817a
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-14 20:43:07
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: d5096ab9b01137f80a68ce80176cba8e
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-14 20:53:33
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 102b73dc040afeffbfa259a8556ee2dd
+- in_conversation: false
+- answer_source: record-only
+- query: 什么明天穿穿毛衣还是穿这个卫衣呀
+- answer: 可能不太合适，上海普陀明天，14度到21度，温度适宜，可以穿衬衫配牛仔裤，百搭又轻便
+- raw_answer: 可能不太合适，上海普陀明天，14度到21度，温度适宜，可以穿衬衫配牛仔裤，百搭又轻便
+## 2026-04-14 22:45:17
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 0afdbf6647aa518f070b8f128dabe7e2
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀开灯
+- answer: 没问题，开啦。
+- raw_answer: 没问题，开啦。
+## 2026-04-14 23:15:21
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 56919383c05b7be6cc5c02a2370567e4
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀关灯
+- answer: 好的。
+- raw_answer: 好的。
+
+### 2026-04-15.md
+
+## 2026-04-15 20:35:26
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e08af2c227a6737dac646e33ac720c75
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-15 21:36:21
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 2007ca5527db8324c36347cbcd3a2558
+- in_conversation: false
+- answer_source: record-only
+- query: 明天天气
+- answer: 上海普陀明天小雨，记得带伞，15度到20度，东风2级，空气质量非常好。
+- raw_answer: 上海普陀明天小雨，记得带伞，15度到20度，东风2级，空气质量非常好。
+
+### 2026-04-16.md
+
+## 2026-04-16 00:08:49
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: fc8bf3ab77b5579746b40b9bd06b0ae8
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀开灯
+- answer: 好啊。
+- raw_answer: 好啊。
+## 2026-04-16 00:13:41
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 913a1b05f8cf7f98c5d50a7f3ffd2171
+- in_conversation: false
+- answer_source: record-only
+- query: 巴菲特对垃圾债券极有独钟
+- answer: 被你问住了，看来要更努力学习了
+- raw_answer: 被你问住了，看来要更努力学习了
+## 2026-04-16 07:39:45
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 05e2b59171479188fc95811d01456321
+- in_conversation: false
+- answer_source: record-only
+- query: 今天天气
+- answer: 上海普陀今天多云转小雨，现在多云，下午5点有小雨，记得带伞，15度到20度，空气质量指数36，空气挺好的
+- raw_answer: 上海普陀今天多云转小雨，现在多云，下午5点有小雨，记得带伞，15度到20度，空气质量指数36，空气挺好的
+## 2026-04-16 19:48:57
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 303735a59338eeea7d79d83938ac71bb
+- in_conversation: false
+- answer_source: record-only
+- query: 五分钟后闹铃
+- answer: 
+- raw_answer: 
+## 2026-04-16 20:46:52
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: febd02904f7549df7601d454b0e5d3b0
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十五分钟
+- answer: 
+- raw_answer:
