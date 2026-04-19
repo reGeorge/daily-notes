@@ -1241,3 +1241,130 @@
 - query: 定时十五分钟
 - answer: 
 - raw_answer:
+
+### 2026-04-17.md
+
+## 2026-04-17 00:08:24
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 3337d4e661db76ff73c475b78fc2c4fb
+- in_conversation: false
+- answer_source: record-only
+- query: 七点二十叫我起床
+- answer: 
+- raw_answer: 
+## 2026-04-17 07:27:18
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 9bc938e5aedb0051a9cf70a5f071a949
+- in_conversation: false
+- answer_source: record-only
+- query: 今天天气
+- answer: 上海普陀今天雾转阴，14度到21度，空气质量指数43，空气挺好的
+- raw_answer: 上海普陀今天雾转阴，14度到21度，空气质量指数43，空气挺好的
+## 2026-04-17 17:19:54
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: d0b788fff2b5163b5e625b78314a9f40
+- in_conversation: false
+- answer_source: record-only
+- query: 五分钟后闹铃
+- answer: 
+- raw_answer: 
+## 2026-04-17 17:27:26
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 39ee155e75ca6bb4244a6c74fa25a18f
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-17 19:52:33
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e18669f47654a371af21305c5c311713
+- in_conversation: false
+- answer_source: record-only
+- query: 闹铃五分钟
+- answer: 
+- raw_answer: 
+## 2026-04-17 20:01:54
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 1351d9cce9147d5db87967d509d8ee72
+- in_conversation: false
+- answer_source: record-only
+- query: 关机
+- answer: 好的。
+- raw_answer: 好的。
+## 2026-04-17 20:48:45
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 18a2863316ec4f3a30a521ea5d61643e
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-17 20:59:12
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e82d66e98df3c8467df0695bfd5b5355
+- in_conversation: false
+- answer_source: record-only
+- query: 五加三加二
+- answer: 答案是十
+- raw_answer: 答案是十
+## 2026-04-17 21:22:56
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 04d2e444e2e0f0a37b31bf8aa29116fd
+- in_conversation: false
+- answer_source: record-only
+- query: 明天天气
+- answer: 上海普陀明天阴转多云，15度到23度，北风1级转北风2级，空气质量优。
+- raw_answer: 上海普陀明天阴转多云，15度到23度，北风1级转北风2级，空气质量优。
+
+### 2026-04-18.md
+
+## 2026-04-18 08:26:19
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 385b9f49e245dbeac02e473299c17064
+- in_conversation: false
+- answer_source: record-only
+- query: 开灯
+- answer: 开啦。
+- raw_answer: 开啦。
+## 2026-04-18 22:00:15
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e0c3870925ff6f53e468ec8c3560cdb5
+- in_conversation: false
+- answer_source: record-only
+- query: 明天明天天气
+- answer: 上海普陀明天多云转晴，14度到23度，北风1级转西北风2级，空气质量良好。
+- raw_answer: 上海普陀明天多云转晴，14度到23度，北风1级转西北风2级，空气质量良好。
