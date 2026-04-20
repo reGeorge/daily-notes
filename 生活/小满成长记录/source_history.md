@@ -1368,3 +1368,160 @@
 - query: 明天明天天气
 - answer: 上海普陀明天多云转晴，14度到23度，北风1级转西北风2级，空气质量良好。
 - raw_answer: 上海普陀明天多云转晴，14度到23度，北风1级转西北风2级，空气质量良好。
+## 2026-04-18 23:19:08
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 4f8aa60e22365ac6113a6ac414806a33
+- in_conversation: false
+- answer_source: record-only
+- query: 干嘛呀几点啦
+- answer: 现在是晚上11点19分
+- raw_answer: 现在是晚上11点19分
+## 2026-04-18 23:28:53
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 6f273d30b0e7b2e7163037aca8d70e5f
+- in_conversation: false
+- answer_source: record-only
+- query: 来啦
+- answer: 好棒！
+- raw_answer: 好棒！
+## 2026-04-18 23:28:57
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e1ecc957fedb34bd51e53cba9b76f257
+- in_conversation: false
+- answer_source: record-only
+- query: 你神经病吗
+- answer: 被你问住了，看来要更努力学习了
+- raw_answer: 被你问住了，看来要更努力学习了
+## 2026-04-18 23:29:05
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 981d82109b7fa737cfa2f00ddf584354
+- in_conversation: false
+- answer_source: record-only
+- query: 你可以接着睡
+- answer: 这个问题我暂时还回答不上，需要再学习一下
+- raw_answer: 这个问题我暂时还回答不上，需要再学习一下
+
+### 2026-04-19.md
+
+## 2026-04-19 19:46:15
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 04bbcd01af1deed0e2778b8d551a40cc
+- in_conversation: false
+- answer_source: record-only
+- query: 定时十分钟
+- answer: 
+- raw_answer: 
+## 2026-04-19 21:08:09
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 9562d688e2416406a8f7635cf9f75f41
+- in_conversation: false
+- answer_source: record-only
+- query: 明天天气
+- answer: 上海普陀明天阴，13度到22度，东北风2级，空气很不错。
+- raw_answer: 上海普陀明天阴，13度到22度，东北风2级，空气很不错。
+## 2026-04-19 21:58:55
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: e835976e2e314ffd43206c389eb12ba7
+- in_conversation: false
+- answer_source: record-only
+- query: 给我闹五分钟
+- answer: 对不起， 我还在学习中!
+- raw_answer: 对不起， 我还在学习中!
+## 2026-04-19 21:59:08
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 4ab4f7827ffb1aa46714dd09630a7925
+- in_conversation: false
+- answer_source: record-only
+- query: 闹铃五分钟
+- answer: 
+- raw_answer: 
+## 2026-04-19 21:59:16
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 8065e62351e9a86418079b291e752276
+- in_conversation: false
+- answer_source: record-only
+- query: 定好了好的
+- answer: 哎呀，不如换个方式再说一下啦！
+- raw_answer: 哎呀，不如换个方式再说一下啦！
+## 2026-04-19 21:59:26
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 91c8d2852aeb6965a9ed31cc35f879da
+- in_conversation: false
+- answer_source: record-only
+- query: 再说一下
+- answer: 我说：哎呀，不如换个方式再说一下啦！
+- raw_answer: 我说：哎呀，不如换个方式再说一下啦！
+## 2026-04-19 22:00:26
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: d6b9fbb4685c749c5a2110f9cb7acd76
+- in_conversation: false
+- answer_source: record-only
+- query: 定时五分钟
+- answer: 
+- raw_answer: 
+## 2026-04-19 22:00:31
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: a284e9923d7ec6f51a7d166482493aed
+- in_conversation: false
+- answer_source: record-only
+- query: 五分钟后我回家干嘛呀
+- answer: 对不起， 我还在学习中!
+- raw_answer: 对不起， 我还在学习中!
+## 2026-04-19 22:00:39
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: 19cdf0c1bd07e55684ed755be599199c
+- in_conversation: false
+- answer_source: record-only
+- query: 定时五分钟
+- answer: 
+- raw_answer: 
+## 2026-04-19 22:06:37
+- source: xiaogpt-local
+- mode: record-only
+- hardware: L05B
+- mi_did: 2116704058
+- request_id: c190f4609e506dfa91a2e0aa447cd7a0
+- in_conversation: false
+- answer_source: record-only
+- query: 反应太慢
+- answer: 这个问题我暂时还回答不上，需要再学习一下
+- raw_answer: 这个问题我暂时还回答不上，需要再学习一下
